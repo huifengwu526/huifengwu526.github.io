@@ -7,43 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-# Huifeng Wu / 邬惠峰
+# Huifeng Wu
 
-  邬惠峰，男，二级教授，力行讲席教授，博士生导师，国家级人才工程入选者，国家有突出贡献中青年专家，国务院特殊津贴专家，浙江省“万人计划”科技创新领军人才，浙江省高校首批科技创新领军人才。
+Huifeng Wu, male, professor, Ph.D. supervisor. He received his Ph.D. in Computer Science and Technology from Zhejiang University, Hangzhou, China, in 2006. He was selected for the National Hundred, Thousand, and Ten ThousandTalent Project, the National Young and Middle-aged experts with outstanding contribution,the Leading Talent in Science and Technology Innovation in the Ten Thousand Talents Program of Zhejiang, the First Batch of Leading Talents in Science and Technology Innovation in University of Zhejiang. 
+ 
+Currently, he is the director of the Scientific Research Department, the director of the School of Computer Science, the executive director of Industrial Internet Research Institute of Hangzhou Dianzi University. He is also the director of Zhejiang Key Laboratory of New Industrial Internet Control Technology, the director of Zhejiang Engineering Research Center for Industrial Internet Intelligent Control System, and the director of Zhejiang Industrial Internet International Cooperation Base. He co-established the Joint Laboratory of Industrial IoT Ubiquitous Operating Systems with Peking University and serves as its director. He is a member of the Programmable Systems Working Group of the IEC, a member of SAC/TC159, a member of the Standard Committee of the CAMETA, a member of the Edge Computing Professional Committee of the CA, etc. His main research directions include intelligent software, edge computing, intelligent control, embedded system, programmable technology, embodied intelligent robots, etc. 
 
-2006 年于浙江大学获得计算机科学与技术专业博士学位，现任杭州电子科技大学科研处处长、计算机学院院长、工业互联网研究院院长、全省工业互联网新型工业控制技术重点实验室主任、工业互联网智能控制系统浙江省工程研究中心主任、浙江省工业互联网国际合作基地主任、浙江省工业智能协同创新中心主任。
+## Research Interests
 
-与北京大学共建“工业物联泛在操作系统联合实验室”并担任主任。
+- Intelligent software
+- Edge computing
+- Intelligent control
+- Embedded system
+- Programmable technology
+- Embodied intelligent robots
 
-## Research Interests / 研究领域
+## Positions
 
-- 智能软件
-- 边缘计算
-- 嵌入式系统
-- 具身智能机器人
+- Zhejiang Key Laboratory of New Industrial Internet Control Technology, Director
+- Zhejiang Engineering Research Center for Industrial Internet Intelligent Control System, Director
+- Zhejiang Industrial Internet International Cooperation Base, Director
+- Zhejiang Industrial Intelligence Collaborative Innovation Center, Director
+- HDU-PKU Joint Laboratory of Industrial IoT Ubiquitous Operating Systems, Director
+- Programmable Systems Working Group of the IEC, Member
+- National Technical Committee 159 on Industrial Automation Systems and Integration (SAC/TC159), Member
 
-## Positions / 社会职务
+## Selected Achievements
 
-- 浙江省工业互联网新型工控重点实验室 主任
-- 工业互联网智能控制系统浙江省工程研究中心 主任
-- 浙江省工业互联网国际合作基地 主任
-- 浙江省工业智能协同创新中心  主任
-- 杭电-北大“工业物联泛在操作系统联合实验室” 主任
-- IEC 国际标准组织可编程系统分委会委员
-- 全国工业自动化系统与集成标准化技术委员会（SAC/TC159）委员
+He has published over 50 internationally recognized journal papers in the field of programmable system software. He has led the formulation of 3 national standard, and has participated in the formulation of 2 international standard and 4 national standards. Recent years, he has led over 30 scientific research projects, including the ten million level national major projects, the Key Projects of the National Natural Science Foundation, the Nuclear High-based Projects, the 863 projects, the National Science and Technology Support Plans, the Key R&D Plans of Zhejiang, etc. 
 
-## Selected Achievements / 代表性成果
+He has received multiple provincial and ministerial awards, including 3 First Prize of Science and Technology Progress Awards of Zhejiang(2020, ranking 1; 2021, ranking 2; 2024, ranking 1), 1 First Prize of Technology Invention Award of Zhejiang(2016, ranking 2), 1 First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award(2025, ranking 1), and 1 Second Prize of Science and Technology Progress Award of Zhejiang(2014, ranking 1). 
 
-已发表论文 50 余篇，主持制定国家标准 3 项，参与制定国际标准 2 项、国家标准 4 项。近几年主持省部级以上科研项目 30 余项，包括国家重点研发计划、国家自然科学基金重点项目等。
+## Teaching
 
-先后获得多项省部级奖励，包括浙江省科技进步奖一等奖、浙江省技术发明奖一等奖、吴文俊人工智能科技进步一等奖、浙江省科技进步二等奖等。
+- Intelligent Methods for Physical Information Systems, Doctoral students
+- Embedded System, Master's degree students
+- Innovative Practice, Undergraduate
 
-## Teaching / 教学
+## Contact
 
-- 物理信息系统的智能方法，博士研究生
-- 嵌入式系统，硕士研究生
-- 创新实践，本科生
-
-## Contact / 联系方式
-
-邮箱：whf@hdu.edu.cn
+Email：whf@hdu.edu.cn
