@@ -4,8 +4,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Awards
-
 1. First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, Key Technologies and Application of Unit Collaborative Intelligent Production Line with Vision-Control Fusion, 2026, Ranking: 1/15
 
 2. First Prize of Science and Technology Progress Award of Zhejiang, Key Technologies and Industrialization of Software-Defined Vision-Control Collaboration for Flexible Manufacturing, 2026, Ranking: 1/13
