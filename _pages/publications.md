@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+# Selected Publications
 
 [1] Donglai Zhu, Danfeng Sun, Junjie Hu, Zeyun Xiao, Yi Yan, Huifeng Wu*. An efficient occlusion-aware visibility assurance method for multi-robot vision-integrated manufacturing[J]. Robotics and Computer-Integrated Manufacturing, 2026, 101:103301. (IF=12.3)
 
