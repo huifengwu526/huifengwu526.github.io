@@ -4,16 +4,16 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Awards / 奖励荣誉
+# Awards
 
-1. 吴文俊人工智能科技进步一等奖，数视融合的单元式协作智能产线关键技术及应用，2026，排名 1/15。
+1. First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, Key Technologies and Application of Unit Collaborative Intelligent Production Line with Vision-Control Fusion, 2026, Ranking: 1/15
 
-2. 浙江省科技进步奖一等奖，面向柔性制造的软件定义视控协同关键技术及产业化，2026，排名 1/13。
+2. First Prize of Science and Technology Progress Award of Zhejiang, Key Technologies and Industrialization of Software-Defined Vision-Control Collaboration for Flexible Manufacturing, 2026, Ranking: 1/13
 
-3. 浙江省科技进步奖一等奖，大型复杂光学级零件注塑成型工艺与装备的研发及产业化，2021，排名 1/13。
+3. First Prize of Science and Technology Progress Award of Zhejiang, Research and industrialization of injection molding technology and equipment for large and complex optical components, 2020, Ranking: 1/13
 
-4. 浙江省科技进步奖一等奖，复杂环境下物流巡检机器人感知与控制关键技术及产业化应用，2022，排名 2/13。
+4. First Prize of Science and Technology Progress Award of Zhejiang, Key Technologies and Industrial Applications of Perception and Control for Logistics Inspection Robots in Complex Environments, 2021, Ranking, 2/13
 
-5. 浙江省技术发明奖一等奖，嵌入式 PLC 开发平台的自主关键技术研究及产业化，2017，排名 2/6。
+5. First Prize of Technology Invention Award of Zhejiang, Independent Key Technology Research and Industrialization of Embedded PLC (ePLC) Development Platform, 2016, Ranking: 2/6
 
-6. 浙江省科技进步奖二等奖，印制电路板智能化光学检测设备的研究及产业化，2014，排名 1/9。
+6. Second Prize of Science and Technology Progress Award of Zhejiang, Research and industrialization of intelligent optical testing equipment for printed circuit boards, 2014, Ranking: 1/9
