@@ -29,8 +29,12 @@ author:
   bio              : "Professor, Doctoral Supervisor, Hangzhou Dianzi University"
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Hangzhou Dianzi University"
-  uri              : "https://faculty.hdu.edu.cn/kyc/whf/main.htm"
+  # uri              : "https://faculty.hdu.edu.cn/kyc/whf/main.htm"？
   email            : "whfhdu.edu.cn" 
+  links:
+    - label: "中文主页"
+      icon: "fas fa-fw fa-link"
+      url: "https://faculty.hdu.edu.cn/kyc/whf/main.htm"
   
   # Academic websites
   academia         : # URL
