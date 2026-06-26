@@ -23,7 +23,7 @@ repository               : "huifengwu526/huifengwu526.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Huifeng Wu / 邬惠峰"
   pronouns         : # example: ""  
   bio              : "Professor, Doctoral Supervisor, Hangzhou Dianzi University"
