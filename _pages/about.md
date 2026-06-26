@@ -22,7 +22,7 @@ Currently, he is the director of the Scientific Research Department, the directo
 - Programmable technology
 - Embodied intelligent robots
 
-## Positions
+## Leadership
 
 - Zhejiang Key Laboratory of New Industrial Internet Control Technology, Director
 - Zhejiang Engineering Research Center for Industrial Internet Intelligent Control System, Director
